@@ -16,8 +16,8 @@ $targetRepoPath = -join ($repoPath,$targetRepoName);
 # 
 
 # then run below one by one in git bash
-# cd to target repo path --> cd "C:/temp/repos/ztemp2_avalanche"
-# git remote add source https://myorg@dev.azure.com/myorg/myproject/_git/avalanche
+# cd to target repo path --> cd "C:/temp/repos/mysourcerepo"
+# git remote add source https://myorg@dev.azure.com/myorg/myproject/_git/mytargetrepo
 # git remote add target $targetrepocloneurl --> git remote add target https://myorg@dev.azure.com/myorg/myproject/_git/mytargetrepo
 # git remote get-url source
 # git remote get-url target
