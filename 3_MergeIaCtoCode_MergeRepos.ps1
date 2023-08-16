@@ -7,8 +7,8 @@
 # copy the file to git isntall path found above
 # cd to a git repo folder and run 'git filter-repo --analyze' check if 'git filter-repo' commands work before running this script
 # after clone run below commands first 
-# git config --global --add safe.directory C:/temp/repos/ztemp_avalanche
-# git config --global --add safe.directory C:/temp/repos/ztemp_avalanche_iac
+# git config --global --add safe.directory C:/temp/repos/mysourcerepo
+# git config --global --add safe.directory C:/temp/repos/mytargetrepo
 
 
 
